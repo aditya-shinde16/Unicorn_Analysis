@@ -31,11 +31,12 @@ To ensure the quality and reliability of the analysis, several data wrangling st
 - Formatting of Valuation and Funding Columns: Removed "$" and "B" from Valuation and Funding column and casted them as float
 - Expansion of Investors Column: The Investors column was expanded into individual rows to facilitate categorical analysis. 
 
-📍 Jupyter script: [Notebook]
+📍 Jupyter script: [Notebook](https://github.com/aditya-shinde16/Unicorn_Analysis/blob/main/Unicorn%20Data%20Wrangling.ipynb)
 
 ## 📊 Visualization
 
 The findings from the data analysis were visualised using Tableau to create a concise one-page dashboard.
+
 Interactive Tableau Dashboard: [Link](https://public.tableau.com/views/Book4_16885293385670/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard 1](https://github.com/aditya-shinde16/Unicorn_Analysis/assets/120565625/5cb78d21-d3e1-4e8c-b648-ab6158c69d20)
